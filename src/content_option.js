@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "VICTOR";
 const meta = {
-    title: "John Doe",
+    title: "Victor Zumbano",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Victor Zumbano",
     animated: {
-        first: "I love coding",
+        first: "I love coding and design",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I'm a Senior Product Designer and Full Stack Developer for almost 7 years.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
